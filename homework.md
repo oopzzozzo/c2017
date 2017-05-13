@@ -11,6 +11,7 @@
 | 03/25 |  05  |                                          | [224 - 超級 GCD][]、[225 - 3n+1 problem (II)][] |      | [week05][week05] |
 | 04/08 |  07  | [350 - 巴斯卡三角形][] | [346 - 大雄的最大公因數][]                   |      |                  |
 | 04/15 |  08  |                                          |                        |      |                 |
+| 04/29 |  10  |                    | [359 - 還我臭臭泥(っ ﾟД ﾟ)っ][]、[1438 - 葉台清交的台是台科大的台][]  |      | [week10][]|
 | 05/06 |  11  | [369 - 書瑾與他的泡泡們][] | [236 - 榜單排序][]、[371 - 古蹟の自燃發電][]  |      |              |
 
 
@@ -31,6 +32,8 @@
 [225 - 3n+1 problem (II)]: http://neoj.sprout.tw/problem/225/
 [346 - 大雄的最大公因數]: http://neoj.sprout.tw/problem/346/
 [350 - 巴斯卡三角形]: http://neoj.sprout.tw/problem/350/
+[359 - 還我臭臭泥(っ ﾟД ﾟ)っ]: http://neoj.sprout.tw/problem/359/
+[1438 - 葉台清交的台是台科大的台]: http://neoj.sprout.tw/problem/1438/
 [369 - 書瑾與他的泡泡們]:http://neoj.sprout.tw/problem/369/
 [236 - 榜單排序]:http://neoj.sprout.tw/problem/236/
 [371 - 古蹟の自燃發電]:http://neoj.sprout.tw/problem/371/
@@ -40,3 +43,4 @@
 [week03]: https://hackmd.io/p/S1tjitFil#/
 [week04]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbTUo5Zi01WUw4TG8
 [week05]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbMExWR3kxeTViVjQ
+[week10]: https://hackmd.io/p/ByrvMp7e-#/
